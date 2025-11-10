@@ -1,0 +1,26 @@
+# Core dependencies for video analysis
+streamlit
+opencv-Python
+numpy
+requests
+python-dotenv
+
+# Your existing packages
+chromadb
+pillow
+torch
+jsonlines
+psutil
+gputil
+easyocr 
+sentence-transformers 
+scikit-learn
+beautifulsoup4 
+googlesearch-python
+
+# Additional for enhanced functionality
+moviepy
+ffmpeg-python
+
+# Note: pathlib, hashlib, json, re, datetime, tempfile, os, time, math, base64 
+# are built-in Python modules and don't need to be installed

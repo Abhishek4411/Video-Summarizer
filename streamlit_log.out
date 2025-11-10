@@ -1,0 +1,9 @@
+nohup: ignoring input
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://192.168.0.9:8502
+  External URL: http://14.195.139.186:8502
+
+2025-07-10 08:16:42.171 Session with id 4f397685-a3b3-4ae2-a237-d307c623f54c is already connected! Connecting to a new session.
